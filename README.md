@@ -1,4 +1,4 @@
-<h1 align="center">Student Management CRUD React Node</h1>
+<h1 align="center">Student Management and Upload Image CRUD React Node</h1>
 
 <h3 align="center">🛠️ Develop with language :</h2>
 <p align="center">
